@@ -11,7 +11,6 @@ export default () => {
 
   return (
     <div>
-      Open your console!
     </div>
   )
 }
